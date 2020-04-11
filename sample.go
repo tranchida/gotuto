@@ -4,5 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello World")
+	var sample = "My Message to world"
+	fmt.Println(sample)
 }
